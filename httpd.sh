@@ -5,7 +5,7 @@ sudo apt update
 sudo apt install -y apache2
 
 # Define variables
-domain="example.com"
+domain="hala.com"
 config_file="/etc/apache2/sites-available/${domain}.conf"
 htaccess_file="/var/www/html/.htaccess"
 username="user"
